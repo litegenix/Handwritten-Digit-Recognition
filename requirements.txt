@@ -1,0 +1,27 @@
+# Handwritten Digit Recognition System - Requirements
+
+# Deep Learning & AI
+tensorflow==2.15.0
+keras==2.15.0
+numpy==1.24.3
+scikit-learn==1.3.2
+
+# Image Processing
+opencv-python==4.8.1.78
+Pillow==10.1.0
+matplotlib==3.8.2
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+werkzeug==3.0.1
+
+# Database
+SQLAlchemy==2.0.23
+
+# Utilities
+pandas==2.1.4
+scipy==1.11.4
+h5py==3.10.0
+tqdm==4.66.1
+seaborn==0.13.0
